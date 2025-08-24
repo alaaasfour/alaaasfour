@@ -104,8 +104,8 @@ An e-commerce bookstore with authentication, database management, and secure pay
 
 ![Alaa's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alaaasfour&theme=react-dark&hide_border=true)
 
-![snake gif](https://github.com/alaaasfour/alaa-asfour/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/alaaasfour/alaaasfour/blob/output/github-contribution-grid-snake.svg)
 
-![Alaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=alaa-asfour&show_icons=true&include_all_commits=true&theme=radical)
+![Alaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=alaaasfour&show_icons=true&include_all_commits=true&theme=radical)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=alaa-asfour&theme=onedark&no-frame=true&no-bg=true&margin-w=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=alaaasfour&theme=onedark&no-frame=true&no-bg=true&margin-w=15)
