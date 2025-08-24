@@ -57,3 +57,38 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+## 📂 Highlighted Projects
+
+### 📰 Fake News Detection with NLP
+A machine learning model that classifies news articles as real or fake using natural language processing techniques.  
+🔹 **Tech:** Python, TensorFlow, Hugging Face, scikit-learn  
+🔹 [Repository](https://github.com/alaa-asfour/fake-news-detection)  
+
+---
+
+### 🩺 Pneumonia Detection (Medical Imaging)
+Deep learning model for diagnosing pneumonia from chest X-ray images.  
+🔹 **Tech:** Python, TensorFlow/Keras, OpenCV, Streamlit  
+🔹 [Repository](https://github.com/alaa-asfour/pneumonia-detection)  
+
+---
+
+### 💹 Reinforcement Learning for Stock Trading
+An RL-based agent trained to optimize buy/sell/hold decisions for XRP trading.  
+🔹 **Tech:** Python, Stable-Baselines3 (PPO), Streamlit, ONNX  
+🔹 [Repository](https://github.com/alaa-asfour/rl-trading-bot)  
+
+---
+
+### 🤖 Distilled Vision-Language Model (Research Project)
+Research project focused on developing a lightweight VLM inspired by LLaVA-3D, targeting efficiency while maintaining reasoning ability.  
+🔹 **Tech:** Python, PyTorch, Transformers, Vision-Language Modeling  
+🔹 *In progress — will publish repo soon*  
+
+---
+
+### 📚 Alpine Bookstore (Full-Stack Project)
+An e-commerce bookstore with authentication, database management, and secure payment integration.  
+🔹 **Tech:** Java, Spring Boot, MySQL, Hibernate, Thymeleaf, Security Protocols  
+🔹 [Repository](https://github.com/alaa-asfour/alpine-bookstore)
