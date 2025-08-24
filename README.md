@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 🌱 Always eager to collaborate on **AI research, ML projects, and open-source contributions**.  
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/alaaaasfour) or check out my projects here on GitHub!
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/alaaasfour/) or check out my projects here on GitHub!
