@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📌 About Me
 🎓 Master's student in Computer Vision & Machine Learning at TMU  
 💻 Software & Solutions Engineer with 4+ years of experience  
 🤖 Passionate about AI research, Vision-Language Models, and Reinforcement Learning  
-☁️ Skilled in Python, Java, C++, TensorFlow, PyTorch, Docker, Kubernetes, and AWS  
+☁️ Skilled in Python, Java, JavaScript, TensorFlow, PyTorch, Docker, Kubernetes, and AWS  
 
 🚀 Currently working on:
 - Distilled Vision-Language Models (lightweight LLaVA-style research)  
