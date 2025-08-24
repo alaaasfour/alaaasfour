@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## 📌 About Me
 🎓 Master's student in Computer Vision & Machine Learning at TMU  
 💻 Software & Solutions Engineer with 4+ years of experience  
-🤖 Passionate about AI research, Vision-Language Models, and Reinforcement Learning  
+🤖 Passionate about AI research, Computer Vision, Vision-Language Models (VLMs), Machine Learning, and Reinforcement Learning  
 ☁️ Skilled in Python, Java, JavaScript, TensorFlow, PyTorch, Docker, Kubernetes, and AWS  
 
 🚀 Currently working on:
