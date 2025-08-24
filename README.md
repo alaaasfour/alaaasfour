@@ -63,21 +63,21 @@ Here are some ideas to get you started:
 ### 📰 Fake News Detection with NLP
 A machine learning model that classifies news articles as real or fake using natural language processing techniques.  
 🔹 **Tech:** Python, TensorFlow, Hugging Face, scikit-learn  
-🔹 [Repository](https://github.com/alaa-asfour/fake-news-detection)  
+🔹 [Repository](https://github.com/alaaasfour/Fake-News-Detection)  
 
 ---
 
 ### 🩺 Pneumonia Detection (Medical Imaging)
 Deep learning model for diagnosing pneumonia from chest X-ray images.  
 🔹 **Tech:** Python, TensorFlow/Keras, OpenCV, Streamlit  
-🔹 [Repository](https://github.com/alaa-asfour/pneumonia-detection)  
+🔹 *In progress — will publish repo soon*  
 
 ---
 
 ### 💹 Reinforcement Learning for Stock Trading
 An RL-based agent trained to optimize buy/sell/hold decisions for XRP trading.  
 🔹 **Tech:** Python, Stable-Baselines3 (PPO), Streamlit, ONNX  
-🔹 [Repository](https://github.com/alaa-asfour/rl-trading-bot)  
+🔹 *In progress — will publish repo soon*
 
 ---
 
@@ -91,4 +91,8 @@ Research project focused on developing a lightweight VLM inspired by LLaVA-3D, t
 ### 📚 Alpine Bookstore (Full-Stack Project)
 An e-commerce bookstore with authentication, database management, and secure payment integration.  
 🔹 **Tech:** Java, Spring Boot, MySQL, Hibernate, Thymeleaf, Security Protocols  
-🔹 [Repository](https://github.com/alaa-asfour/alpine-bookstore)
+🔹 [Repository](https://github.com/alaaasfour/Alpine)
+
+
+## 📊 GitHub Stats
+![Alaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=alaa-asfour&show_icons=true&theme=radical)
