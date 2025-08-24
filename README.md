@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/alaaasfour/) or check out my projects here on GitHub!
 
+![Profile Views](https://komarev.com/ghpvc/?username=alaaasfour&label=Profile%20views&color=0e75b6&style=flat)
+
 ## 🛠 Skills & Expertise
 ### 👨‍💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -99,7 +101,5 @@ An e-commerce bookstore with authentication, database management, and secure pay
 | GitHub Stats 📊 | Most Used Languages ⌨️ |
 |-----------------|------------------------|
 | ![Alaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=alaaasfour&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alaaasfour&layout=compact&theme=radical) |
-
-![Profile Views](https://komarev.com/ghpvc/?username=alaaasfour&label=Profile%20views&color=0e75b6&style=flat)
 
 ![Alaa's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alaaasfour&theme=react-dark&hide_border=true)
