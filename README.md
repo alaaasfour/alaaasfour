@@ -102,4 +102,4 @@ An e-commerce bookstore with authentication, database management, and secure pay
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alaaasfour&label=Profile%20views&color=0e75b6&style=flat)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=alaaasfour&theme=onedark)
+![Alaa's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alaaasfour&theme=react-dark&hide_border=true)
